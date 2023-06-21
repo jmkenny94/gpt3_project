@@ -1,0 +1,29 @@
+.footer__section {
+    background: #031B34;
+}
+
+.footer__section-heading h1 {
+    font-family: Manrope;
+    font-size: 62px;
+    font-weight: 800;
+    line-height: 75px;
+    letter-spacing: -0.04em;
+    text-align: center;
+}
+
+.footer__btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 2rem;
+}
+
+.footer__btn button {
+    width: 218px;
+    height: 65px;
+    top: 5010px;
+    left: 612px;
+    border: 1px solid #FFFFFF;
+    background: transparent;
+    color:#FFFFFF;
+}
